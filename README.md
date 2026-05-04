@@ -12,7 +12,7 @@
 
 I'm **Aizharkyn (Aijar) Zhumabaeva**, transitioning from **e-commerce operations** to **Product Analytics**. 
 
-I spent 6 months managing product catalogs on **Trendyol** and **Shopify** for 10+ clients (500+ SKUs, inventory management, performance analysis). Now I'm building the technical foundation (SQL, Python, statistical modeling) to turn product data into actionable business insights.
+I spent a year managing product catalogs on **Trendyol** and **Shopify** for 10+ clients (500+ SKUs, inventory management, performance analysis). Now I'm building the technical foundation (SQL, Python, statistical modeling) to turn product data into actionable business insights.
 
 **My edge:** I understand how e-commerce data is generated — not just how to query it. I know what drives conversion rates, why retention matters, and how operational metrics (fulfillment time, stockouts) impact customer behavior.
 
