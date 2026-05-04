@@ -71,11 +71,7 @@ Tools      Git · Jupyter · Streamlit
 ---
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aijarkynhref/Aijarkynhref/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
 
----
 
 ## Get in Touch
 
